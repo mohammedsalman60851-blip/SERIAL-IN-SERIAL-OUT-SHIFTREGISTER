@@ -35,8 +35,8 @@ Simulate the design to verify the serial shift operation.
 
 Program for flipflops and verify its truth table in quartus using Verilog programming.
 ~~~
-Developed by: SHYAM M
-RegisterNumber:212225220096
+Developed by: MOHAMMED SALMAN J
+RegisterNumber:212225040250
 ~~~
 ~~~
 module shift_reg10(clk, sin, q);
